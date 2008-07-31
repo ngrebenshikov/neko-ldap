@@ -1,0 +1,8 @@
+#summary Haxe library "nekoldap"
+
+
+Use "haxelib install nekoldap" to get it on your computer. Now in this package there are linux (for fedora 8) and windows versions of ndll.
+
+== Links ==
+  * [http://www.haxe.org Haxe]
+  * [http://www.nekovm.org Neko]
